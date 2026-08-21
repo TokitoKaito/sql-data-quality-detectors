@@ -63,4 +63,4 @@ Detector 12 compares `purchases.price_paid` against the current value of `games.
 
 ## Author
 
-Daniil, steepdan2003@gmail.com
+Daniil, danya.desimus@gmail.com, https://www.linkedin.com/in/daniil-demchenko-qa/
